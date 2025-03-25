@@ -1,0 +1,7 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore Eclipse & VS Code specific files (optional)
+.vscode/
+bin/
+out/
